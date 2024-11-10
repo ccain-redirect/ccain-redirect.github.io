@@ -1,1 +1,1 @@
-# ccain-redirect.github.io
+# ccain.cc
